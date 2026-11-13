@@ -43,9 +43,8 @@ GROUP BY Product Group;
 ​Metric Creation: Combining multiple aggregate functions (SUM() / SUM()) to compute weighted ratios like cost per kilogram rather than averaging pre-calculated rows.
 ​Handling Real-World Column Names: Working with spaces and special characters in raw dataset headers using backticks in MySQL.
 
+LINKEDLN:[https://www.linkedin.com/in/rajputvansh/]
 
-​🚀 Future Improvements
-​As I continue building my SQL skills, I plan to expand this repository with:
-​ORDER BY and LIMIT clauses to rank top vendors and highest-cost routes.
-​CASE statements to categorize shipments by weight tiers or cost brackets.
-​Data cleaning queries to handle missing or non-numeric entries in freight and weight columns.
+SQL IMAGES:[https://img.sanishtech.com/u/7348f382d30f1983a5f1c3a2119d2eba.jpg]
+           [https://img.sanishtech.com/u/0904df45894926bf7ff1452ae0df3fea.jpg]
+           [https://img.sanishtech.com/u/da657003a77e37dc59988fcad2d8312e.jpg]
